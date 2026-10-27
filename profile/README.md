@@ -25,7 +25,8 @@ and restrain, and a _yard_ to work in.
 ## How it is built
 
 A Go backend with SQLite or Postgres, a small Go frontend server, and Docker
-Sandboxes for execution. It is self-hosted.
+Sandboxes for execution. You can self-host it, and an optional managed cloud is
+planned.
 
 ## Status
 
