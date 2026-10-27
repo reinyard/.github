@@ -1,8 +1,8 @@
 # Reinyard
 
-**A controlled place for AI agents to work.**
+**A controlled place for agents to work.**
 
-Reinyard is where a company builds, versions and runs AI agents and automations
+Reinyard is where a company builds, versions and runs agents and automations
 without losing sight of what they did. The name is the idea: a _rein_ to guide
 and restrain, and a _yard_ to work in.
 
