@@ -30,7 +30,8 @@ planned.
 
 ## Status
 
-Reinyard is under active development and is not yet ready for public
+Reinyard is under active development. Self-hosting is the supported path
+today, and a managed cloud is planned. It is not yet ready for public
 multi-tenant hosting. See the repository documentation for the current
 security model and limits.
 
